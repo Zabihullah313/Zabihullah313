@@ -14,14 +14,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zabihullah313&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihullah313&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Contact Me  
 - 📧 Email: [zabihullahmohammadi313@gmail.com](mailto:zabihullahmohammadi313@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/zabihullah-mohammadi-97910737a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zabihullah-mohammadi-97910737a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  )]
 
 ---
 ✨ *“Code, Learn, Improve — Repeat.”*  
