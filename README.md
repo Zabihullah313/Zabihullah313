@@ -1,5 +1,4 @@
-# Creating a ready-to-commit README.md for the user's GitHub profile repo.
-content = """<!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zabihullah313/Zabihullah313/main/banner.gif" alt="Coding Banner" width="800"/>
 </p>
@@ -75,11 +74,3 @@ content = """<!-- Banner -->
 </p>
 
 <p align="center">✨ "Code, Learn, Improve — Repeat." ✨</p>
-"""
-
-file_path = "/mnt/data/README_for_Zabihullah313.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(content)
-
-file_path
-
